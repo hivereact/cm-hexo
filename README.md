@@ -11,8 +11,10 @@ Full copy of files from Hexo Theme, including sounds, boot animation, wallpapers
 
 * Clone repository
 * Do modifications
-* Commit and push!
 
 ### Who do I talk to?
 
 * Telegram group for Contributors
+* Google+ community.
+
+That's it! I'm lazy to create serious README.md!
