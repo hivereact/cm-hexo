@@ -15,4 +15,4 @@ Full copy of files from Hexo Theme, including sounds, boot animation, wallpapers
 
 ### Who do I talk to?
 
-* Telegram group
+* Telegram group for Contributors
