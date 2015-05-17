@@ -1,0 +1,15 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/theme/build/generated
+/theme/build/intermediates/assets
+/theme/build/intermediates/classes
+/theme/build/intermediates/dex
+/theme/build/intermediates/incremental
+/theme/build/intermediates/manifests
+/theme/build/intermediates/res
+/theme/build/intermediates/tmp
+/theme/build/outputs
