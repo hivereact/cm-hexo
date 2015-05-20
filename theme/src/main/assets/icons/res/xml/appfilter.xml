@@ -98,12 +98,20 @@
     <!-- Other Applications -->
 	<item component="ComponentInfo{cir.ca}" drawable="apps_circa"/>
     <item component="ComponentInfo{appinventor.ai_progetto2003.SCAN}" drawable="apps_barcodescanner"/>
+	<item component="ComponentInfo{com.estoty.game2048}" drawable="apps_2048"/>
+	<item component="ComponentInfo{com.estoty.game2048pvp}" drawable="apps_2048pvp"/>
+	<item component="ComponentInfo{com.bitdefender.security}" drawable="apps_bitdefender"/>
+	<item component="ComponentInfo{com.bt.bms}" drawable="apps_bookmyshow"/>
     <item component="ComponentInfo{ch.bitspin.timely}" drawable="apps_timely"/>
     <item component="ComponentInfo{com.authy.authy}" drawable="apps_authy"/>
+	<item component="ComponentInfo{com.aide.ui}" drawable="apps_aide"/>
+	<item component="ComponentInfo{com.ryansteckler.nlpunbounce}" drawable="apps_amplify"/>
 	<item component="ComponentInfo{com.hulu.plus}" drawable="apps_hulu"/>
     <item component="ComponentInfo{com.tassadar.multirommgr}" drawable="apps_multirom"/>
     <item component="ComponentInfo{com.amazon.mShop.android.shopping}" drawable="apps_amazon"/>
     <item component="ComponentInfo{com.koushikdutta.cast}" drawable="apps_allcast"/>
+	<item component="ComponentInfo{com.onelouder.baconreader}" drawable="apps_baconreader"/>
+	<item component="ComponentInfo{com.majosoft.anacode}" drawable="apps_anacode"/>
     <item component="ComponentInfo{com.antutu.ABenchMark}" drawable="apps_antutu"/>
 	<item component="ComponentInfo{org.zwanoo.android.speedtest}" drawable="apps_speedtest"/>
     <item component="ComponentInfo{com.cleanmaster.mguard}" drawable="apps_cleanmaster"/>
@@ -124,6 +132,7 @@
     <item component="ComponentInfo{com.keramidas.TitaniumBackup}" drawable="apps_titanium"/>
     <item component="ComponentInfo{com.weather.Weather}" drawable="apps_weatherchannel"/>
     <item component="ComponentInfo{com.evernote}" drawable="apps_evernote"/>
+	<item component="ComponentInfo{de.hafas.android.db}" drawable="apps_dbnav"/>
     <item component="ComponentInfo{com.wunderkinder.wunderlistandroid}" drawable="apps_wunderlist"/>
     <item component="ComponentInfo{com.spotify.music}" drawable="apps_spotify"/>
     <item component="ComponentInfo{com.uberblic.parceltrack}" drawable="apps_parceltrack"/>
