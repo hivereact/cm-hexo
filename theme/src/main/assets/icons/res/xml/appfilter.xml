@@ -106,7 +106,20 @@
     <item component="ComponentInfo{com.authy.authy}" drawable="apps_authy"/>
 	<item component="ComponentInfo{com.aide.ui}" drawable="apps_aide"/>
 	<item component="ComponentInfo{com.ryansteckler.nlpunbounce}" drawable="apps_amplify"/>
+	<item component="ComponentInfo{uk.gov.metoffice.android}" drawable="apps_metoffice"/>
 	<item component="ComponentInfo{com.hulu.plus}" drawable="apps_hulu"/>
+	<item component="ComponentInfo{com.dominospizza}" drawable="apps_dominos"/>
+	<item component="ComponentInfo{com.rovio.BadPiggies}" drawable="apps_badpiggies"/>
+	<item component="ComponentInfo{com.viber.voip}" drawable="apps_viber"/>
+	<item component="ComponentInfo{com.starfinanz.smob.android.sfinanzstatus}" drawable="apps_sparkasse"/>
+	<item component="ComponentInfo{com.starfinanz.smob.android.sbanking}" drawable="apps_sparkasseplus"/>
+	<item component="ComponentInfo{de.hafas.android.vgs}" drawable="apps_saarfahrplan"/>
+	<item component="ComponentInfo{com.mediocre.commute}" drawable="apps_commute"/>
+	<item component="ComponentInfo{com.Dominos}" drawable="apps_dominos"/>
+	<item component="ComponentInfo{ca.dominospizza}" drawable="apps_dominos"/>
+	<item component="ComponentInfo{com.dominos.dominossite}" drawable="apps_dominos"/>
+	<item component="ComponentInfo{dominos.bg}" drawable="apps_dominos"/>
+	<item component="ComponentInfo{com.quizup.core}" drawable="apps_quizup"/>
     <item component="ComponentInfo{com.tassadar.multirommgr}" drawable="apps_multirom"/>
     <item component="ComponentInfo{com.amazon.mShop.android.shopping}" drawable="apps_amazon"/>
     <item component="ComponentInfo{com.koushikdutta.cast}" drawable="apps_allcast"/>
