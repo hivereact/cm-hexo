@@ -43,8 +43,9 @@
     <item component="ComponentInfo{com.android.chrome}" drawable="google_chrome" />
 	<item component="ComponentInfo{com.google.android.tv.remote}" drawable="google_androidtvremote" />
     <item component="ComponentInfo{com.google.android.gm}" drawable="google_mail" />
-    <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity}" drawable="google_plus" />
+    <item component="ComponentInfo{com.google.android.apps.plus}" drawable="google_plus" />
 	<item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.ConversationListActivity}" drawable="google_photos" />
+	<item component="ComponentInfo{com.google.android.apps.photos}" drawable="google_photos" />
     <item component="ComponentInfo{com.google.android.apps.maps}" drawable="google_maps" />
     <item component="ComponentInfo{com.google.android.music}" drawable="google_playmusic" />
     <item component="ComponentInfo{com.google.android.videos}" drawable="google_playmovies" />
@@ -66,6 +67,7 @@
     <item component="ComponentInfo{com.google.android.apps.docs.editors.sheets}" drawable="google_sheets" />
     <item component="ComponentInfo{com.google.android.apps.docs.editors.slides}" drawable="google_slides" />
     <item component="ComponentInfo{com.google.android.apps.inbox}" drawable="google_inbox" />
+	<item component="ComponentInfo{com.google.android.apps.androidify}" drawable="apps_androidify" />
 	<!-- System Apps -->
     <item component="ComponentInfo{com.android.stk}" drawable="system_sim" />
     <item component="ComponentInfo{com.android.browser}" drawable="system_browser" />
@@ -100,25 +102,34 @@
     <item component="ComponentInfo{appinventor.ai_progetto2003.SCAN}" drawable="apps_barcodescanner" />
 	<item component="ComponentInfo{com.estoty.game2048}" drawable="apps_2048" />
 	<item component="ComponentInfo{com.estoty.game2048pvp}" drawable="apps_2048pvp" />
+	<item component="ComponentInfo{com.stumbleupon.android.app}" drawable="apps_stumbleupon" />
 	<item component="ComponentInfo{com.bitdefender.security}" drawable="apps_bitdefender" />
 	<item component="ComponentInfo{com.bt.bms}" drawable="apps_bookmyshow" />
     <item component="ComponentInfo{ch.bitspin.timely}" drawable="apps_timely" />
     <item component="ComponentInfo{com.authy.authy}" drawable="apps_authy" />
 	<item component="ComponentInfo{com.dolphin.browser.zero}" drawable="apps_dolphinzero" />
-	<item component="ComponentInfo{com.google.android.apps.androidify}" drawable="apps_androidify" />
+	<item component="ComponentInfo{com.truecaller.phoneapp}" drawable="system_phone" />
 	<item component="ComponentInfo{org.kidinov.awd}" drawable="apps_awd" />
 	<item component="ComponentInfo{com.asksven.betterbatterystats}" drawable="apps_betterbatterystats" />
 	<item component="ComponentInfo{com.bittorrent.client.pro}" drawable="apps_bittorrent" />
+	<item component="ComponentInfo{com.yanyan.cputemp}" drawable="apps_cputemp" />
+	<item component="ComponentInfo{com.yanyan.cputemppure}" drawable="apps_cputemp" />
 	<item component="ComponentInfo{com.bittorrent.client}" drawable="apps_bittorrent" />
 	<item component="ComponentInfo{stericson.busybox}" drawable="apps_busybox" />
 	<item component="ComponentInfo{stericson.busybox.donate}" drawable="apps_busybox" />
 	<item component="ComponentInfo{com.codeanywhere}" drawable="apps_codeanywhere" />
 	<item component="ComponentInfo{com.codeguys.codebox}" drawable="apps_codebox" />
+	<item component="ComponentInfo{name.antonsmirnov.android.cppdroid}" drawable="apps_cppdroid" />
+	<item component="ComponentInfo{com.cpuid.cpu_z}" drawable="apps_cpuz" />
+	<item component="ComponentInfo{com.abs.cpu_z_advance}" drawable="apps_cpuzalt" />
+	<item component="ComponentInfo{com.ing.mobile}" drawable="apps_ing" />
 	<item component="ComponentInfo{com.melodis.midomiMusicIdentifier.freemium}" drawable="apps_soundhound" />
 	<item component="ComponentInfo{com.melodis.midomiMusicIdentifier}" drawable="apps_soundhound" />
 	<item component="ComponentInfo{net.zedge.android}" drawable="apps_zedge" />
 	<item component="ComponentInfo{com.scee.psxandroid}" drawable="apps_playstation" />
 	<item component="ComponentInfo{com.aide.ui}" drawable="apps_aide" />
+	<item component="ComponentInfo{cc.forestapp}" drawable="apps_forest" />
+	<item component="ComponentInfo{com.appinio.appinio}" drawable="apps_appinio" />
 	<item component="ComponentInfo{com.ryansteckler.nlpunbounce}" drawable="apps_amplify" />
 	<item component="ComponentInfo{uk.gov.metoffice.android}" drawable="apps_metoffice" />
 	<item component="ComponentInfo{com.hulu.plus}" drawable="apps_hulu" />
@@ -161,10 +172,12 @@
     <item component="ComponentInfo{com.spectrl.rec}" drawable="apps_rec" />
     <item component="ComponentInfo{com.oppo.camera}" drawable="apps_coscamera" />
     <item component="ComponentInfo{com.ninegag.android.app}" drawable="apps_9gag" />
+	<item component="ComponentInfo{com.ninegag.android.tv}" drawable="apps_9gagtv" />
     <item component="ComponentInfo{com.keramidas.TitaniumBackup}" drawable="apps_titanium" />
     <item component="ComponentInfo{com.weather.Weather}" drawable="apps_weatherchannel" />
     <item component="ComponentInfo{com.evernote}" drawable="apps_evernote" />
 	<item component="ComponentInfo{de.hafas.android.db}" drawable="apps_dbnav" />
+	<item component="ComponentInfo{de.hafas.android.dbzugradarpv}" drawable="apps_zugradar" />
     <item component="ComponentInfo{com.wunderkinder.wunderlistandroid}" drawable="apps_wunderlist" />
     <item component="ComponentInfo{com.spotify.music}" drawable="apps_spotify" />
     <item component="ComponentInfo{com.uberblic.parceltrack}" drawable="apps_parceltrack" />
@@ -278,6 +291,8 @@
     <item component="ComponentInfo{net.dinglisch.android.taskerm}" drawable="apps_tasker" />
     <item component="ComponentInfo{net.nurik.roman.muzei}" drawable="apps_muzei" />
     <item component="ComponentInfo{nextapp.fx}" drawable="apps_filemanager" />
+	<item component="ComponentInfo{com.synology.DSaudio}" drawable="apps_dsaudio" />
+	<item component="ComponentInfo{com.synology.DScam}" drawable="apps_dscam" />
     <item component="ComponentInfo{org.ilumbo.ovo}" drawable="apps_ovotimer" />
     <item component="ComponentInfo{org.openintents.cmfilemanager}" drawable="apps_filemanager" />
     <item component="ComponentInfo{org.openintents.filemanager}" drawable="apps_filemanager" />
@@ -312,4 +327,5 @@
 	<item component="ComponentInfo{pl.submachine.gyro}" drawable="games_gyro" />
 	<item component="ComponentInfo{com.rovio.BadPiggies}" drawable="games_badpiggies" />
 	<item component="ComponentInfo{com.frogmind.badland}" drawable="games_badland" />
+	<item component="ComponentInfo{com.scimob.ninetyfour.percent}" drawable="games_94percent" />
 </resources>
