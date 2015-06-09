@@ -18,13 +18,18 @@
     <drawable name="ic_signal_location_disable_animation">@drawable/ic_qs_location_off</drawable>
 
     <!-- Rotation QS Tile Icon 12.1 -->
-    <drawable name="ic_portrait_to_auto_rotate_animation">@drawable/ic_qs_rotation_on</drawable>
-    <drawable name="ic_landscape_to_auto_rotate_animation">@drawable/ic_qs_rotation_on</drawable>
-    <drawable name="ic_portrait_from_auto_rotate_animation">@drawable/ic_qs_rotation_off</drawable>
-    <drawable name="ic_landscape_from_auto_rotate_animation">@drawable/ic_qs_rotation_off</drawable>
+    <drawable name="ic_portrait_to_auto_rotate_animation">@drawable/ic_qs_rotation_01</drawable>
+    <drawable name="ic_landscape_to_auto_rotate_animation">@drawable/ic_qs_rotation_01</drawable>
+    <drawable name="ic_portrait_from_auto_rotate_animation">@drawable/ic_qs_rotation_02</drawable>
+    <drawable name="ic_landscape_from_auto_rotate_animation">@drawable/ic_qs_rotation_02</drawable>
 
     <!-- Invert Colors QS Tile Icon 12.1 -->
     <drawable name="ic_invert_colors_enable_animation">@drawable/ic_qs_inversion_on</drawable>
     <drawable name="ic_invert_colors_disable_animation">@drawable/ic_qs_inversion_off</drawable>
+	
+	<!-- Power Save Icons Cyanogen OS 12 -->
+	<drawable name="ic_qs_perf_profile_toperf">@drawable/ic_qs_perf_profile_bal_avd</drawable>
+	<drawable name="ic_qs_perf_profile_topwrsv">@drawable/ic_qs_perf_profile_highperf_avd</drawable>
+	<drawable name="ic_qs_perf_profile_tobalanced">@drawable/ic_qs_perf_profile_pwrsv_avd</drawable>
 
 </resources>

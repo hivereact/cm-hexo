@@ -154,6 +154,7 @@
     <item component="ComponentInfo{com.amazon.mShop.android.shopping}" drawable="apps_amazon" />
     <item component="ComponentInfo{com.koushikdutta.cast}" drawable="apps_allcast" />
 	<item component="ComponentInfo{com.onelouder.baconreader}" drawable="apps_baconreader" />
+	<item component="ComponentInfo{com.onelouder.baconreader.premium}" drawable="apps_baconreader" />
 	<item component="ComponentInfo{com.majosoft.anacode}" drawable="apps_anacode" />
     <item component="ComponentInfo{com.antutu.ABenchMark}" drawable="apps_antutu" />
 	<item component="ComponentInfo{org.zwanoo.android.speedtest}" drawable="apps_speedtest" />
@@ -274,6 +275,7 @@
     <item component="ComponentInfo{com.whatsapp}" drawable="apps_whatsapp" />
     <item component="ComponentInfo{com.yahoo.mobile.client.android.atom}" drawable="apps_yahoo_digest" />
     <item component="ComponentInfo{com.yahoo.mobile.client.android.flickr}" drawable="apps_flickr" />
+	<item component="ComponentInfo{com.bandsintown}" drawable="apps_bandsintown" />
     <item component="ComponentInfo{com.yahoo.mobile.client.android.mail}" drawable="apps_yahoo_mail" />
     <item component="ComponentInfo{com.yahoo.mobile.client.android.weather}" drawable="apps_yahoo_weather" />
     <item component="ComponentInfo{com.zappos.android}" drawable="apps_zappos" />
