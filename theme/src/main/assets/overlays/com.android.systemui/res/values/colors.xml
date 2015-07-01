@@ -34,7 +34,11 @@
     <color name="navbutton_ripple_color">@*common:color/theme_primary</color>
 
     <!-- QS Tile Data Usage Graph -->
-    <color name="data_usage_secondary">#99FFFFFF</color><!-- 60% white -->
-    <color name="data_usage_graph_track">#33FFFFFF</color><!-- 20% white -->
+    <color name="data_usage_secondary">#99FFFFFF</color> <!-- 60% white -->
+    <color name="data_usage_graph_track">#33FFFFFF</color> <!-- 20% white -->
     <color name="data_usage_graph_warning">@*common:color/theme_highlighter</color>
+	
+	<!-- Expanded Status Bar Weather Text Colors -->
+	<color name="status_bar_temperature_text_color">@color/theme_accent</color>
+	<color name="status_bar_temperature_location_text_color">@color/theme_accent</color>
 </resources>
