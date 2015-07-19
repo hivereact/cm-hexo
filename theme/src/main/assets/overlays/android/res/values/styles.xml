@@ -33,7 +33,7 @@
     <!-- Notifications -->
     <style name="TextAppearance.Material.Notification.Title" parent="@android:style/TextAppearance.Material.Notification.Title">
         <item name="android:textSize">@dimen/notification_title_text_size</item>
-        <item name="android:textColor">@color/theme_white</item>
+        <item name="android:textColor">@color/theme_primary</item>
     </style>
 
     <style name="TextAppearance.Material.Notification" parent="@android:style/TextAppearance.Material.Notification">
