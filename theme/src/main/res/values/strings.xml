@@ -14,16 +14,12 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
 -->
-
 <resources>
-
-    <string name="theme_name">Hexo Community</string>
-    <string name="theme_author">Cyanogen + pcg/media + Contributors</string>
+    <string name="theme_name">Hexo (Community)</string>
+    <string name="theme_author">cyanogen/contributors/pcg</string>
     <string name="theme_email">pcgamesk@gmail.com</string>
     <string name="title_activity_hexo">Hexo Community</string>
-
     <string name="thank_you">Thank you for downloading!</string>
     <string name="donate">Consider donating $4.99</string>
     <string name="action_settings">Settings</string>
-
 </resources>
