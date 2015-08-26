@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<!-- TODO: need to add github app id -->
+	<!-- TODO: need to add github app id -->
     <!--                       If you want to add icon, please enter                      -->
     <!-- <item compontent="ComponentInfo{app.id/app.id.SomeActivity} drawable="image"  /> -->
     <!--     Entering application activity is optional, entering app is not optional.     -->
