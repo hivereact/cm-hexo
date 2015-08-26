@@ -167,6 +167,7 @@
     <item component="ComponentInfo{com.mediocre.commute}" drawable="apps_commute" />
     <item component="ComponentInfo{com.infonow.bofa}" drawable="apps_bankofamerica" />
     <item component="ComponentInfo{bbc.mobile.news.uk}" drawable="apps_bbcnews" />
+    <item component="ComponentInfo{bbc.mobile.news.ww}" drawable="apps_bbcnews" />
     <item component="ComponentInfo{com.unii.fling}" drawable="apps_fling" />
     <item component="ComponentInfo{com.Dominos}" drawable="apps_dominos" />
     <item component="ComponentInfo{ca.dominospizza}" drawable="apps_dominos" />
