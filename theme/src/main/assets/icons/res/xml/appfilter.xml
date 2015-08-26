@@ -35,7 +35,6 @@
     <item component="ComponentInfo{com.google.android.talk}" drawable="google_hangouts" />
     <item component="ComponentInfo{com.google.android.play.games}" drawable="google_playgames" />
     <item component="ComponentInfo{com.google.android.videoeditor}" drawable="google_filmstudio" />
-    <item component="ComponentInfo{com.google.android.googlequicksearchbox}" drawable="system_voicesearch" />
     <item component="ComponentInfo{com.google.android.apps.googlevoice}" drawable="google_voice" />
     <item component="ComponentInfo{com.google.glass.companion}" drawable="google_glass" />
     <item component="ComponentInfo{com.quickoffice.android}" drawable="google_quickoffice" />
@@ -88,7 +87,7 @@
     <item component="ComponentInfo{com.android.music}" drawable="cyngn_music" />
     <item component="ComponentInfo{com.android.phone}" drawable="system_phone" />
     <item component="ComponentInfo{com.android.providers.downloads.ui}" drawable="system_downloads" />
-    <item component="ComponentInfo{com.android.quicksearchbox}" drawable="system_voicesearch" />
+    <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" drawable="system_voicesearch" />
     <item component="ComponentInfo{com.android.settings}" drawable="system_settings" />
     <item component="ComponentInfo{com.android.soundrecorder}" drawable="system_soundrecorder" />
     <item component="ComponentInfo{com.android.tasky}" drawable="system_tasks" />
