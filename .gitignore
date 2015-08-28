@@ -1,14 +1,6 @@
 /local.properties
 /build
-/theme/build/generated
-/theme/build/intermediates/assets
-/theme/build/intermediates/classes
-/theme/build/intermediates/dex
-/theme/build/intermediates/incremental
-/theme/build/intermediates/manifests
-/theme/build/intermediates/res
-/theme/build/intermediates/tmp
-/theme/build/outputs
+/theme/build
 *~
 
 # Built application files
