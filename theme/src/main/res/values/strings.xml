@@ -13,11 +13,15 @@
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
+ *
+ * Copyright (C) 2015 PCG & PCG Slovakia
+ *
+ * Created for CyanogenMod 12 and 12.1
 -->
 <resources>
     <string name="theme_name">Hexo (Community)</string>
-    <string name="theme_author">cyanogen/community/pcg</string>
     <!-- /pcg - The brand identity -->
+    <string name="theme_author">cyngn/community/pcg</string>
     <string name="theme_email">pcgamesk@gmail.com</string>
     <string name="title_activity_hexo">Easter Egg</string>
     <string name="thank_you">So, you went through code to find this. Good job!</string>
