@@ -16,10 +16,10 @@
 -->
 <resources>
     <string name="theme_name">Hexo (Community)</string>
-    <string name="theme_author">Cyanogen Inc, Community</string>
+    <string name="theme_author">cyanogen/community/pcg</string>
+    <!-- /pcg - The brand identity -->
     <string name="theme_email">pcgamesk@gmail.com</string>
-    <string name="title_activity_hexo">Hexo Community</string>
-    <string name="thank_you">Thank you for downloading!</string>
-    <string name="donate">Consider donating $4.99 to Aaahh</string>
-    <string name="action_settings">Settings</string>
+    <string name="title_activity_hexo">Easter Egg</string>
+    <string name="thank_you">So, you went through code to find this. Good job!</string>
+    <string name="action_settings">Yay! Another one!</string>
 </resources>
