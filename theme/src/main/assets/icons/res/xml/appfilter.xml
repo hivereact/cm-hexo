@@ -336,6 +336,7 @@
     <item component="ComponentInfo{org.wikipedia.beta}" drawable="apps_wikipedia" />
     <item component="ComponentInfo{org.wikipedia}" drawable="apps_wikipedia" />
     <item component="ComponentInfo{org.zwanoo.android.speedtest}" drawable="apps_speedtest" />
+    <item component="ComponentInfo{pct.droid}" drawable="apps_popcorn" />
     <item component="ComponentInfo{slide.watchFrenzy}" drawable="apps_watchmaker" />
     <item component="ComponentInfo{stericson.busybox.donate}" drawable="apps_busybox" />
     <item component="ComponentInfo{stericson.busybox}" drawable="apps_busybox" />
@@ -430,6 +431,7 @@
     <item component="ComponentInfo{com.foxtel.epg}" drawable="apps_foxtelguide" />
     <item component="ComponentInfo{in.fulldive.shell}" drawable="apps_fulldivevr" />
     <item component="ComponentInfo{com.frogmind.badland}" drawable="apps_badlands" />
+    <item component="ComponentInfo{com.frogmind.badland.ultimate}" drawable="apps_badlands" />
     <item component="ComponentInfo{com.adscads.futureplanpro}" drawable="apps_futureplan" />
     <item component="ComponentInfo{com.groundspeak.geocaching.intro}" drawable="apps_geocaching" />
     <item component="ComponentInfo{com.groundspeak.geocaching}" drawable="apps_geocaching" />
