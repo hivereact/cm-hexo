@@ -21,7 +21,7 @@
 <resources>
     <string name="theme_name">Hexo (Community)</string>
     <!-- /pcg - The brand identity -->
-    <string name="theme_author">cyngn/community/pcg</string>
+    <string name="theme_author">Cyngn, Community, PCG</string>
     <string name="theme_email">pcgamesk@gmail.com</string>
     <string name="title_activity_hexo">Easter Egg</string>
     <string name="thank_you">So, you went through code to find this. Good job!</string>

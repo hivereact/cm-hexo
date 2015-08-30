@@ -123,6 +123,7 @@
     <!-- Other Applications -->
     <item component="ComponentInfo{cir.ca}" drawable="apps_circa" />
     <item component="ComponentInfo{appinventor.ai_progetto2003.SCAN}" drawable="apps_barcodescanner" />
+    <item component="ComponentInfo{cm.aptoide.pt﻿}" drawable="apps_aptoide" />
     <item component="ComponentInfo{com.archetyping.downtown/com.archetyping.downtown.view.FirstLoadActivity}" drawable="apps_dribbble"/>
     <item component="ComponentInfo{com.estoty.game2048}" drawable="apps_2048" />
     <item component="ComponentInfo{com.estoty.game2048pvp}" drawable="apps_2048pvp" />
@@ -217,6 +218,7 @@
     <item component="ComponentInfo{deezer.android.app}" drawable="apps_deezer" />
     <item component="ComponentInfo{com.stackexchange.marvin}" drawable="apps_stackexchange" />
     <item component="ComponentInfo{com.rockstargames.ifruit}" drawable="apps_ifruit" />
+    <item component="ComponentInfo{com.rockstargames.gtasa}" drawable="apps_gtasa" />
     <item component="ComponentInfo{ch.smalltech.ledflashlight.free}" drawable="system_torch" />
     <item component="ComponentInfo{co.vine.android}" drawable="apps_vine" />
     <item component="ComponentInfo{com.andrew.apollo}" drawable="apps_apollo" />
@@ -237,6 +239,8 @@
     <item component="ComponentInfo{com.facebook.katana}" drawable="apps_facebook" />
     <item component="ComponentInfo{com.facebook.orca}" drawable="apps_facebookmessenger" />
     <item component="ComponentInfo{com.fandango}" drawable="apps_fandango" />
+    <item component="ComponentInfo{com.fastemulator.gba}" drawable="apps_myboy" />
+    <item component="ComponentInfo{com.fastemulator.gbafree}" drawable="apps_myboy" />
     <item component="ComponentInfo{com.foursquare.android.tablet}" drawable="apps_foursquare" />
     <item component="ComponentInfo{com.foursquare.robin}" drawable="apps_swarm" />
     <item component="ComponentInfo{com.groupon}" drawable="apps_groupon" />
@@ -269,6 +273,7 @@
     <item component="ComponentInfo{com.mars.miuifilemanager}" drawable="apps_filemanager" />
     <item component="ComponentInfo{com.mobiata.flighttrack.five}" drawable="apps_flighttrack" />
     <item component="ComponentInfo{com.mohlendo.flickr}" drawable="apps_flickr" />
+    <item component="ComponentInfo{com.mojang.minecraftpe}" drawable="apps_minecraft" />
     <item component="ComponentInfo{com.netflix.mediaclient}" drawable="apps_netflix" />
     <item component="ComponentInfo{com.nuance.swype.dtc}" drawable="apps_swype" />
     <item component="ComponentInfo{com.nulldroid.tumblr}" drawable="apps_tumblr" />
@@ -277,6 +282,7 @@
     <item component="ComponentInfo{com.pinger.ppa}" drawable="apps_textfree" />
     <item component="ComponentInfo{com.pinger.textfree.call}" drawable="apps_textfreevoice" />
     <item component="ComponentInfo{com.pinterest}" drawable="apps_pinterest" />
+    <item component="ComponentInfo{com.primatelabs.geekbench}" drawable="apps_geekbench" />
     <item component="ComponentInfo{com.quoord.tapatalkpro.activity}" drawable="apps_tapatalk" />
     <item component="ComponentInfo{com.quoord.tapatalkxda.activity}" drawable="apps_xda" />
     <item component="ComponentInfo{com.rageconsulting.android.lightflow}" drawable="apps_lightflow" />
@@ -311,6 +317,7 @@
     <item component="ComponentInfo{de.robv.android.xposed.installer}" drawable="apps_xposed" />
     <item component="ComponentInfo{eu.chainfire.supersu}" drawable="apps_supersu" />
     <item component="ComponentInfo{fm.last.android}" drawable="apps_lastfm" />
+    <item component="ComponentInfo{hk.kennethso168.xposed.apmplus﻿}" drawable="apps_apmplus" />
     <item component="ComponentInfo{jackpal.androidterm}" drawable="apps_terminal" />
     <item component="ComponentInfo{jackpal.androidterm2}" drawable="apps_terminal" />
     <item component="ComponentInfo{jp.amazon.mShop.android}" drawable="apps_amazon" />
@@ -422,6 +429,7 @@
     <item component="ComponentInfo{au.com.foxtel.Go}" drawable="apps_foxtelgo" />
     <item component="ComponentInfo{com.foxtel.epg}" drawable="apps_foxtelguide" />
     <item component="ComponentInfo{in.fulldive.shell}" drawable="apps_fulldivevr" />
+    <item component="ComponentInfo{com.frogmind.badland}" drawable="apps_badlands" />
     <item component="ComponentInfo{com.adscads.futureplanpro}" drawable="apps_futureplan" />
     <item component="ComponentInfo{com.groundspeak.geocaching.intro}" drawable="apps_geocaching" />
     <item component="ComponentInfo{com.groundspeak.geocaching}" drawable="apps_geocaching" />
