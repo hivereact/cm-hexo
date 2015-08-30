@@ -156,6 +156,7 @@
     <item component="ComponentInfo{com.bittorrent.client.pro}" drawable="apps_bittorrent" />
     <item component="ComponentInfo{com.bittorrent.client}" drawable="apps_bittorrent" />
     <item component="ComponentInfo{com.bt.bms}" drawable="apps_bookmyshow" />
+    <item component="ComponentInfo{com.ceco.sbdp}" drawable="apps_stausdownload" />
     <item component="ComponentInfo{com.cleanmaster.mguard}" drawable="apps_cleanmaster" />
     <item component="ComponentInfo{com.cloudmagic.mail}" drawable="apps_cloudmagic" />
     <item component="ComponentInfo{com.codeanywhere}" drawable="apps_codeanywhere" />
