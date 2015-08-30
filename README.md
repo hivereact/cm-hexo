@@ -17,4 +17,4 @@ Full copy of files from Hexo Theme, including sounds, boot animation, wallpapers
 * Telegram group for Contributors
 * Google+ community.
 
-That's it! I'm lazy to create serious README.md!
+That's it! I'm lazy to create serious README.md! ## well actually you just made a useless readme, that no one else would ever see... :p
