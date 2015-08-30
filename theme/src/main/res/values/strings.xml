@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
- * Copyright (C) 2014 The CyanogenMod Project
+ * Copyright (C) 2014 The CyanogenMod Project, Cyanogen, Inc. & PCG
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -13,14 +13,9 @@
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
- *
- * Copyright (C) 2015 PCG & PCG Slovakia
- *
- * Created for CyanogenMod 12 and 12.1
 -->
 <resources>
     <string name="theme_name">Hexo (Community)</string>
-    <!-- /pcg - The brand identity -->
     <string name="theme_author">Cyngn, Community, PCG</string>
     <string name="theme_email">pcgamesk@gmail.com</string>
     <string name="title_activity_hexo">Easter Egg</string>
