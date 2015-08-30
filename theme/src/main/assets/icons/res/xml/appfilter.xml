@@ -77,6 +77,7 @@
     <item component="ComponentInfo{com.google.android.gms}" drawable="google_settings" />
     <item component="ComponentInfo{com.google.android.gm}" drawable="google_mail" />
     <item component="ComponentInfo{com.google.android.googlequicksearchbox}" drawable="google_search" />
+    <item component="ComponentInfo{com.google.android.inputmethod.latin}" drawable="google_keyboard" />
     <item component="ComponentInfo{com.google.android.keep}" drawable="google_keep" />
     <item component="ComponentInfo{com.google.android.music}" drawable="google_playmusic" />
     <item component="ComponentInfo{com.google.android.play.games}" drawable="google_playgames" />
@@ -147,6 +148,7 @@
     <item component="ComponentInfo{com.asksven.betterbatterystats}" drawable="apps_betterbatterystats" />
     <item component="ComponentInfo{com.authy.authy}" drawable="apps_authy" />
     <item component="ComponentInfo{com.autodesk.autocadws}" drawable="apps_autocad360" />
+    <item component="ComponentInfo{com.baiwang.instasquare.activity}" drawable="apps_instasquare" />
     <item component="ComponentInfo{com.bandisintown}" drawable="apps_bandisintown" />
     <item component="ComponentInfo{com.bandsintown}" drawable="apps_bandisintown" />
     <item component="ComponentInfo{com.bel.android.dspmanager}" drawable="systema_dspmanager" />
@@ -172,6 +174,7 @@
     <item component="ComponentInfo{com.dominospizza}" drawable="apps_dominos" />
     <item component="ComponentInfo{com.dreamstep.wFlickr}" drawable="apps_flikr" />
     <item component="ComponentInfo{com.dropbox.android}" drawable="apps_dropbox" />
+    <item component="ComponentInfo{com.dsmartapps.root.kerneltweaker}" drawable="apps_kerneltoolkit" />
     <item component="ComponentInfo{com.ebay.kleinanzeigen}" drawable="apps_ebaygermany" />
     <item component="ComponentInfo{com.ebay.mobile}" drawable="apps_ebay" />
     <item component="ComponentInfo{com.estoty.game2048pvp}" drawable="apps_2048pvp" />
@@ -209,7 +212,7 @@
     <item component="ComponentInfo{com.jamesob.tumblroid}" drawable="apps_tumblr" />
     <item component="ComponentInfo{com.joelapenna.foursquared}" drawable="apps_foursquare" />
     <item component="ComponentInfo{com.jrummy.liberty.toolboxpro}" drawable="apps_romtoolbox" />
-    <item component="ComponentInfo{com.jrummy.liberty.toolbox}" drawable="apps_romtoolboxlite" />
+    <item component="ComponentInfo{com.jrummy.liberty.toolbox}" drawable="apps_romtoolbox" />
     <item component="ComponentInfo{com.juanpotato.potatonoise}" drawable="apps_potato" />
     <item component="ComponentInfo{com.keramidas.TitaniumBackup}" drawable="apps_titanium" />
     <item component="ComponentInfo{com.kokenjr.android.shazambackup}" drawable="apps_shazam" />
@@ -292,6 +295,7 @@
     <item component="ComponentInfo{com.weather.Weather}" drawable="apps_weatherchannel" />
     <item component="ComponentInfo{com.whatsapp}" drawable="apps_whatsapp" />
     <item component="ComponentInfo{com.wunderkinder.wunderlistandroid}" drawable="apps_wunderlist" />
+    <item component="ComponentInfo{com.xiaomi.xy.sportscamera}" drawable="apps_xiaomixysportscamera" />
     <item component="ComponentInfo{com.yahoo.mobile.client.android.atom}" drawable="apps_yahoo_digest" />
     <item component="ComponentInfo{com.yahoo.mobile.client.android.flickr}" drawable="apps_flickr" />
     <item component="ComponentInfo{com.yahoo.mobile.client.android.mail}" drawable="apps_yahoo_mail" />
