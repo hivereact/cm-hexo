@@ -53,6 +53,7 @@
     <item component="ComponentInfo{com.google.android.apps.docs.editors.sheets}" drawable="google_sheets" />
     <item component="ComponentInfo{com.google.android.apps.docs.editors.slides}" drawable="google_slides" />
     <item component="ComponentInfo{com.google.android.apps.docs}" drawable="google_drive" />
+    <item component="ComponentInfo{com.google.android.apps.enterprise.dmagent}" drawable="google_appspolicy" />
     <item component="ComponentInfo{com.google.android.apps.genie.geniewidget}" drawable="google_newsweather" />
     <item component="ComponentInfo{com.google.android.apps.googlevoice}" drawable="google_voice" />
     <item component="ComponentInfo{com.google.android.apps.inbox}" drawable="google_inbox" />
@@ -62,6 +63,7 @@
     <item component="ComponentInfo{com.google.android.apps.photos}" drawable="google_photos" />
     <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.ConversationListActivity}" drawable="google_photos" />
     <item component="ComponentInfo{com.google.android.apps.plus}" drawable="google_plus" />
+    <item component="ComponentInfo{com.google.android.apps.vega}" drawable="google_mybusiness" />
     <item component="ComponentInfo{com.google.android.apps.walletnfcrel}" drawable="google_wallet" />
     <item component="ComponentInfo{com.google.android.apps.youtube.creator}" drawable="google_ytstudio" />
     <item component="ComponentInfo{com.google.android.calendar}" drawable="system_calendar" />
@@ -71,10 +73,11 @@
     <item component="ComponentInfo{com.google.android.googlequicksearchbox}" drawable="google_search" />
     <item component="ComponentInfo{com.google.android.inputmethod.latin}" drawable="google_keyboard" />
     <item component="ComponentInfo{com.google.android.keep}" drawable="google_keep" />
+    <item component="ComponentInfo{com.google.android.launcher}" drawable="google_launcher" />
     <item component="ComponentInfo{com.google.android.music}" drawable="google_playmusic" />
     <item component="ComponentInfo{com.google.android.play.games}" drawable="google_playgames" />
     <item component="ComponentInfo{com.google.android.talk}" drawable="google_hangouts" />
-    <item component="ComponentInfo{com.google.android.tv.remote}" drawable="google_androidtvremote" />
+    <item component="ComponentInfo{com.google.android.tv.remote}" drawable="google_androidtv" />
     <item component="ComponentInfo{com.google.android.videoeditor}" drawable="google_filmstudio" />
     <item component="ComponentInfo{com.google.android.videos}" drawable="google_playmovies" />
     <item component="ComponentInfo{com.google.android.youtube}" drawable="google_youtube" />
