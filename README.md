@@ -4,17 +4,10 @@ Full copy of files from Hexo Theme, including sounds, boot animation, wallpapers
 
 ### What is this repository for?
 
-* Showing the status of repository
-* Contributing (some people)
+* Showing stuff
 
-### How do I get set up?
+### What is this repository not for?
 
-* Clone repository
-* Do modifications
+* Copying and claiming others' work as Kenny does.
 
-### Who do I talk to?
-
-* Telegram group for Contributors
-* Google+ community.
-
-That's it! I'm lazy to create serious README.md! ## well actually you just made a useless readme, that no one else would ever see... :p
+That's it. Don't ever think about copying or you'll get free report on Google Play.
