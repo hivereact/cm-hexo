@@ -8,8 +8,8 @@ android {
         applicationId "com.pcgmedia.hexo"
         minSdkVersion 21
         targetSdkVersion 23
-        versionCode 21
-        versionName "0.7.2b"
+        versionCode 20
+        versionName "0.7.1b"
     }
     buildTypes {
         release {

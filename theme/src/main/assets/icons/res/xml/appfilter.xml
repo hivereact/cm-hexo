@@ -35,8 +35,13 @@
     <item component="ComponentInfo{org.cyanogenmod.theme.chooser}" drawable="cyngn_themes" />
 
     <!-- Microsoft Apps -->
+    <item component="ComponentInfo{com.microsoft.office.excel}" drawable="microsoft_excel" />
     <item component="ComponentInfo{com.microsoft.office.officehub}" drawable="microsoft_office" />
-    <item component="ComponentInfo{com.microsoft.office.onenote}" drawable="microsoft_onenote" />
+    <item component="ComponentInfo{com.microsoft.office.officelens}" drawable="microsoft_lens" />
+    <item component="ComponentInfo{com.microsoft.office.onenote}"     drawable="microsoft_onenote" />
+    <item component="ComponentInfo{com.microsoft.office.outlook}" drawable="microsoft_outlook" />
+    <item component="ComponentInfo{com.microsoft.office.powerpoint}" drawable="microsoft_powerpoint" />
+    <item component="ComponentInfo{com.microsoft.office.word}" drawable="microsoft_word" />
     <item component="ComponentInfo{com.microsoft.skydrive}" drawable="microsoft_onedrive" />
 
     <!-- Google Apps -->
@@ -70,12 +75,14 @@
     <item component="ComponentInfo{com.google.android.deskclock}" drawable="system_clock" />
     <item component="ComponentInfo{com.google.android.gms}" drawable="google_settings" />
     <item component="ComponentInfo{com.google.android.gm}" drawable="google_mail" />
-    <item component="ComponentInfo{com.google.android.googlequicksearchbox}" drawable="google_search" />
+    <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" drawable="system_voicesearch" />
+    <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" drawable="google_search" />
     <item component="ComponentInfo{com.google.android.inputmethod.latin}" drawable="google_keyboard" />
     <item component="ComponentInfo{com.google.android.keep}" drawable="google_keep" />
     <item component="ComponentInfo{com.google.android.launcher}" drawable="google_launcher" />
     <item component="ComponentInfo{com.google.android.music}" drawable="google_playmusic" />
     <item component="ComponentInfo{com.google.android.play.games}" drawable="google_playgames" />
+    <item component="ComponentInfo{com.google.android.street}" drawable="google_street" />
     <item component="ComponentInfo{com.google.android.talk}" drawable="google_hangouts" />
     <item component="ComponentInfo{com.google.android.tv.remote}" drawable="google_androidtv" />
     <item component="ComponentInfo{com.google.android.videoeditor}" drawable="google_filmstudio" />
@@ -85,7 +92,21 @@
     <item component="ComponentInfo{com.google.glass.companion}" drawable="google_glass" />
     <item component="ComponentInfo{com.google.zxing.client.android}" drawable="google_barcodescanner" />
     <item component="ComponentInfo{com.quickoffice.android}" drawable="google_quickoffice" />
-
+    
+    <!-- Avast Apps -->
+    <item component="ComponentInfo{com.avast.android.antitheft_setup}" drawable="avast_antitheft" />
+    <item component="ComponentInfo{com.avast.android.at_play}" drawable="avast_antitheft" />
+    <item component="ComponentInfo{com.avast.android.backup}" drawable="avast_backup" />
+    <item component="ComponentInfo{com.avast.android.batterysaver}" drawable="avast_battery" />
+    <item component="ComponentInfo{com.avast.android.malwareremoval}" drawable="avast_ransom" />
+    <item component="ComponentInfo{com.avast.android.mobilesecurity}" drawable="avast_antivirus" />
+    <item component="ComponentInfo{com.avast.android.vpn}" drawable="avast_vpn" />
+    
+    <!-- Zimperium Apps -->
+    <item component="ComponentInfo{com.zimperium.stagefrightdetector}" drawable="zimperium_stagefright" />
+    <item component="ComponentInfo{com.zimperium.zips}" drawable="zimperium_ips" />
+    <item component="ComponentInfo{com.zimperium.zshellshock}" drawable="zimperium_shellshock" />
+    
     <!-- System Apps -->
     <item component="ComponentInfo{com.android.alarmclock}" drawable="system_clock" />
     <item component="ComponentInfo{com.android.browser}" drawable="cyngn_browser" />
@@ -109,12 +130,11 @@
     <item component="ComponentInfo{com.android.soundrecorder}" drawable="system_soundrecorder" />
     <item component="ComponentInfo{com.android.stk}" drawable="system_sim" />
     <item component="ComponentInfo{com.android.tasky}" drawable="system_tasks" />
-    <item component="ComponentInfo{com.android.term}" drawable="apps_terminal" />
+    <item component="ComponentInfo{com.android.terminal}" drawable="system_terminal" />
     <item component="ComponentInfo{com.android.thememanager}" drawable="cyngn_themes" />
     <item component="ComponentInfo{com.android.updater}" drawable="system_updater" />
     <item component="ComponentInfo{com.android.videoeditor}" drawable="system_moviestudio" />
     <item component="ComponentInfo{com.android.voicedialer}" drawable="system_voicedialer" />
-    <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" drawable="system_voicesearch" />
 
     <!-- Other Applications -->
     <item component="ComponentInfo{appinventor.ai_progetto2003.SCAN}" drawable="apps_barcodescanner" />
@@ -140,7 +160,10 @@
     <item component="ComponentInfo{com.antutu.ABenchMark}" drawable="apps_antutu" />
     <item component="ComponentInfo{com.appinio.appinio}" drawable="apps_appinio" />
     <item component="ComponentInfo{com.archetyping.downtown/com.archetyping.downtown.view.FirstLoadActivity}" drawable="apps_dribbble"/>
+    <item component="ComponentInfo{com.arjanvlek.cyngnotainfo}" drawable="apps_cyngnupdate" />
     <item component="ComponentInfo{com.asksven.betterbatterystats}" drawable="apps_betterbatterystats" />
+    <item component="ComponentInfo{com.aspiro.tidal}" drawable="apps_tidal" />
+    <item component="ComponentInfo{com.aspiro.wamp}" drawable="apps_wimp" />
     <item component="ComponentInfo{com.authy.authy}" drawable="apps_authy" />
     <item component="ComponentInfo{com.autodesk.autocadws}" drawable="apps_autocad360" />
     <item component="ComponentInfo{com.baiwang.instasquare.activity}" drawable="apps_instasquare" />
@@ -201,9 +224,11 @@
     <item component="ComponentInfo{com.hbo}" drawable="apps_hbogo" />
     <item component="ComponentInfo{com.hbo.hbonow}" drawable="apps_hbonow" />
     <item component="ComponentInfo{com.here.app.maps}" drawable="apps_here" />
+    <item component="ComponentInfo{com.hound.android.app}" drawable="apps_hound" />
     <item component="ComponentInfo{com.hulu.plus}" drawable="apps_hulu" />
     <item component="ComponentInfo{com.humblebundle.library}" drawable="apps_humble" />
     <item component="ComponentInfo{com.ideashower.readitlater.pro}" drawable="apps_pocket" />
+    <item component="ComponentInfo{com.ijinshan.kbackup}" drawable="apps_cmbackup" />
     <item component="ComponentInfo{com.imgur.mobile}" drawable="apps_imgur" />
     <item component="ComponentInfo{com.infonow.bofa}" drawable="apps_bankofamerica" />
     <item component="ComponentInfo{com.ing.mobile}" drawable="apps_ing" />
@@ -225,6 +250,7 @@
     <item component="ComponentInfo{com.levelup.touiteur}" drawable="apps_plume" />
     <item component="ComponentInfo{com.linkbubble.playstore}" drawable="apps_linkbubble" />
     <item component="ComponentInfo{com.linkedin.android}" drawable="apps_linkedin" />
+    <item component="ComponentInfo{com.lionmobi.powerclean}" drawable="apps_powerclean" />
     <item component="ComponentInfo{com.majosoft.anacode}" drawable="apps_anacode" />
     <item component="ComponentInfo{com.mangaphoenix.lite}" drawable="apps_mangaphoenix" />
     <item component="ComponentInfo{com.mars.miuifilemanager}" drawable="system_filemanager" />
@@ -314,6 +340,7 @@
     <item component="ComponentInfo{com.zillow.android.zillowmap}" drawable="apps_zillow" />
     <item component="ComponentInfo{de.hafas.android.vgs}" drawable="apps_saarfahrplan" />
     <item component="ComponentInfo{de.robv.android.xposed.installer}" drawable="apps_xposed" />
+    <item component="ComponentInfo{de.szalkowski.activitylauncher}" drawable="apps_activity" />
     <item component="ComponentInfo{deezer.android.app}" drawable="apps_deezer" />
     <item component="ComponentInfo{devian.tubemate.home}" drawable="apps_tubemate" />
     <item component="ComponentInfo{dominos.bg}" drawable="apps_dominos" />
@@ -321,8 +348,9 @@
     <item component="ComponentInfo{fm.last.android}" drawable="apps_lastfm" />
     <item component="ComponentInfo{hbogo.v3.czech.slovakia}" drawable="apps_hbogo" />
     <item component="ComponentInfo{hk.kennethso168.xposed.apmplus﻿}" drawable="apps_apmplus" />
-    <item component="ComponentInfo{jackpal.androidterm2}" drawable="apps_terminal" />
-    <item component="ComponentInfo{jackpal.androidterm}" drawable="apps_terminal" />
+    <item component="ComponentInfo{info.p_devs.theeyebook.theeyebook}" drawable="apps_phantomplus" />
+    <item component="ComponentInfo{jackpal.androidterm2}" drawable="system_terminal" />
+    <item component="ComponentInfo{jackpal.androidterm}" drawable="system_terminal" />
     <item component="ComponentInfo{jp.amazon.mShop.android}" drawable="apps_amazon" />
     <item component="ComponentInfo{kik.android}" drawable="apps_kik" />
     <item component="ComponentInfo{me.nextplus.smsfreetext.phonecalls}" drawable="apps_nextplus" />
@@ -357,6 +385,7 @@
     <item component="ComponentInfo{tv.twitch.android.viewer}" drawable="apps_twitch" />
     <item component="ComponentInfo{uk.amazon.mShop.android}" drawable="apps_amazon" />
     <item component="ComponentInfo{uk.gov.metoffice.android}" drawable="apps_metoffice" />
+    <item component="ComponentInfo{what.whatandroid}" drawable="apps_what" /> 
     <item component="ComponentInfo{wp.wattpad.covers}" drawable="apps_wpcovers" />
     <item component="ComponentInfo{wp.wattpad}" drawable="apps_wattpad" />
     <item component="ComponentInfo{wp.wpbeta}" drawable="apps_wattpad" />
@@ -380,18 +409,19 @@
     <item component="ComponentInfo{pl.submachine.gyro}" drawable="games_gyro" />
     
     <!-- Gege -->
-    <item component="ComponentInfo{coolcherrytrees.games.reactor4}" drawable="apps_4playerreactor" />
-    <item component="ComponentInfo{com.ninetyfour.degrees.app}" drawable="apps_ninetyfourdegrees" />
-    <item component="ComponentInfo{com.ninetyfour.seconds.app}" drawable="apps_ninetyfourseconds" />
-    <item component="ComponentInfo{blackwhite.bw}" drawable="apps_100jumpsdontdie" />
+    <item component="ComponentInfo{coolcherrytrees.games.reactor4}" drawable="games_fourplayerreactor" />
+    <item component="ComponentInfo{com.ninetyfour.degrees.app}" drawable="games_ninetyfourdegrees" />
+    <item component="ComponentInfo{com.ninetyfour.seconds.app}" drawable="games_ninetyfourseconds" />
+    <item component="ComponentInfo{blackwhite.bw}" drawable="games_100jumpsdontdie" />
     <item component="ComponentInfo{net.app360cities}" drawable="apps_360cities" />
-    <item component="ComponentInfo{com.gramgames.tenten}" drawable="apps_tenten" />
-    <item component="ComponentInfo{com.talklittle.game2048cast.app}" drawable="apps_game2048cast" />
-    <item component="ComponentInfo{com.aa.generaladaptiveapps}" drawable="apps_aa" />
+    <item component="ComponentInfo{com.gramgames.tenten}" drawable="games_tenten" />
+    <item component="ComponentInfo{com.talklittle.game2048cast.app}" drawable="games_2048cast" />
+    <item component="ComponentInfo{com.aa.generaladaptiveapps}" drawable="games_aa" />
     <item component="ComponentInfo{com.adobe.reader}" drawable="apps_adobeacrobat" />
-    <item component="ComponentInfo{com.digidust.elokence.akinator.paid}" drawable="apps_akinator" />
-    <item component="ComponentInfo{com.digidust.elokence.akinator.paid}" drawable="apps_akinator" />
+    <item component="ComponentInfo{com.digidust.elokence.akinator.paid}" drawable="games_akinator" />
     <item component="ComponentInfo{de.eplus.mappecc.client.android.alditalk}" drawable="apps_alditalk" />
+    
+    <!-- Gege Non-Categorized -->
     <item component="ComponentInfo{com.software.mick.fargods.wip.demo}" drawable="apps_alienapartmentvr" />
     <item component="ComponentInfo{com.allryder.android}" drawable="apps_ally" />
     <item component="ComponentInfo{com.laserdog.alone}" drawable="apps_alone" />
