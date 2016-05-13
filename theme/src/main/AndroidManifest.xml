@@ -35,8 +35,6 @@
         android:name="org.cyanogenmod.theme.email"
         android:value="@string/theme_email" />
 
-    <uses-permission android:name="android.permission.BILLING" />
-
     <application
         android:hasCode="false"
         android:icon="@mipmap/ic_launcher"

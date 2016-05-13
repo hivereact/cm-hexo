@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <color name="theme_dark">@*common:color/theme_dark</color>
     <color name="theme_accent">@*common:color/theme_primary</color>
     <color name="theme_black">@*common:color/theme_black</color>
     <color name="theme_white">@*common:color/theme_white</color>
-
     <color name="system_primary_color">@*common:color/theme_dark</color>
     <color name="system_secondary_color">@*common:color/theme_black</color>
     <color name="system_accent_color">@*common:color/theme_primary</color>
@@ -61,4 +59,6 @@
 
     <color name="volume_panel_divider">#1FFFFFFF</color>
 
+    <!-- Blisspop Colors -->
+    <color name="notification_header_bg">@*common:color/theme_dark</color>
 </resources>
