@@ -233,6 +233,7 @@
     <item component="ComponentInfo{com.imgur.mobile}" drawable="apps_imgur" />
     <item component="ComponentInfo{com.infonow.bofa}" drawable="apps_bankofamerica" />
     <item component="ComponentInfo{com.ing.mobile}" drawable="apps_ing" />
+    <item component="ComponentInfo{com.instagram.android}" drawable="apps_instagram" />
     <item component="ComponentInfo{com.jamesob.tumblroidlite}" drawable="apps_tumblr" />
     <item component="ComponentInfo{com.jamesob.tumblroid}" drawable="apps_tumblr" />
     <item component="ComponentInfo{com.joelapenna.foursquared}" drawable="apps_foursquare" />
